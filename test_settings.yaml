@@ -1,0 +1,10 @@
+mass_tube_standardized_g: 1.06
+storage_liquid:
+    mass_storage_liquid_in_g: 7.01
+    storage_liquid_lot_number:
+      '00039':
+        density_storage_liquid_in_g_per_mL: 0.98
+      '00040':
+        density_storage_liquid_in_g_per_mL: 1.003
+      '223456789':
+        density_storage_liquid_in_g_per_mL: 1.01
